@@ -1,3 +1,6 @@
+# Added for Github to properly identify the language of the project.
 # Ensure GitHub detects .js and .jsx files as JavaScript
+* linguist-vendored
+*.react linguist-vendored=false
 *.js linguist-language=JavaScript
 *.jsx linguist-language=JavaScript
